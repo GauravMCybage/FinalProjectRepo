@@ -1,0 +1,183 @@
+{
+  "Buyers": [
+    {
+      "name": "Mayur",
+      "username": "Mama",
+      "email": "mayurkumarr@cybage.com",
+      "phone": "8888499798",
+      "website": "MAYUR",
+      "id": 1
+    }
+  ],
+  "Providers": [
+    {
+      "name": "Aniket ",
+      "username": "sudama",
+      "email": "aniket@cybage.com",
+      "phone": "8888365659798",
+      "website": "Toyota",
+      "id": 1
+    }
+  ],
+  "Sellers": [
+    {
+      "name": "Tushar ",
+      "username": "Tush",
+      "email": "tushar@cybage.com",
+      "phone": "5555555555",
+      "website": "Hyundai",
+      "id": 1
+    }
+  ],
+  "Buyer": [
+    {
+      "id": 1,
+      "BuyerId": 101,
+      "BuyerName": "tushar",
+      "BuyerMobile": 9076403626,
+      "BuyerEmail": "tushar@gmail.com",
+      "BuyerPassword": "tushar11334",
+      "BuyerAddress": "kalyani nagar",
+      "BuyerCity": "pune"
+    },
+    {
+      "id": 2,
+      "BuyerId": 102,
+      "BuyerName": "amey",
+      "BuyerMobile": 8040382761,
+      "BuyerEmail": "amey@gmail.com",
+      "BuyerPassword": "r54gft123",
+      "BuyerAddress": "sinhgad road",
+      "BuyerCity": "pune"
+    },
+    {
+      "id": 3,
+      "BuyerId": 103,
+      "BuyerName": "aniket",
+      "BuyerMobile": 9207528692,
+      "BuyerEmail": "aniket@gmail.com",
+      "BuyerPassword": "45rtgf3",
+      "BuyerAddress": "kothrud",
+      "BuyerCity": "pune"
+    }
+  ],
+  "sellerData": [
+    {
+      "id": 1,
+      "SellerId": 201,
+      "SellerName": "digambar",
+      "SellerMobile": 684684,
+      "SellerEmail": "digambar@gmail.com",
+      "SellerPassword": "wqdxqw",
+      "SellerAddress": "kalyani nagar",
+      "SellerCity": "pune"
+    }
+  ],
+  "ProviderData": [
+    {
+      "id": 1,
+      "ProviderId": 301,
+      "ProviderName": "pramod",
+      "ProviderContact": 695684,
+      "ProviderEmail": "pramod@gamil.com",
+      "ProviderPassword": "kjfebnjkd",
+      "ProviderAddress": "ebjhfcjh",
+      "ProviderCity": "wemnkjk",
+      "ProviderRegStatus": "yes"
+    }
+  ],
+  "NewCar": [
+    {
+      "NewCarId": 501,
+      "NCarName": "hhshs",
+      "NCarCost": "1234567788898",
+      "NCarTransmission": "wdfh",
+      "NCarInsuranceType": "efgwueyf",
+      "NCarMileage": 2415,
+      "NCarStatus": "yes",
+      "CarType": "petrol",
+      "BookingStatus": "kjdsfn",
+      "ProviderId": 401,
+      "id": 1
+    },
+    {
+      "NewCarId": 502,
+      "NCarName": "hhshs",
+      "NCarCost": 4454,
+      "NCarTransmission": "wdfh",
+      "NCarInsuranceType": "efgwueyf",
+      "NCarMileage": 2415,
+      "NCarStatus": "yes",
+      "CarType": "petrol",
+      "BookingStatus": "nhgnhnghnhnj",
+      "ProviderId": 401,
+      "id": 2
+    },
+    {
+      "NewCarId": 503,
+      "NCarName": "hhshs",
+      "NCarCost": "cdscsdfvsdgvfg",
+      "NCarTransmission": "wdfh",
+      "NCarInsuranceType": "efgwueyf",
+      "NCarMileage": 2415,
+      "NCarStatus": "yes",
+      "CarType": "petrol",
+      "BookingStatus": "kjdsfn",
+      "ProviderId": 401,
+      "id": 3
+    }
+  ],
+  "UsedCar": [
+    {
+      "UsedCarId": 601,
+      "UCarName": "kgsjdg",
+      "CarPurchaseDate": "121",
+      "UCarCost": 10464,
+      "UCarTransmission": "sandgvhsdgv",
+      "UCarInsuranceType": "34932850-68789",
+      "UCarMileage": 65435,
+      "UCarNoOfPrevOwner": "shdgjh",
+      "UCarRTO": "nfnfhn",
+      "UCarDriven": "ekfhiku",
+      "UCarStatus": "bggb",
+      "CarType": "dsjksdfjk",
+      "BookingStatus": "wdljwl",
+      "SellerId": 101,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "UsedCarId": 602,
+      "UCarName": "kgsjdg",
+      "CarPurchaseDate": "121",
+      "UCarCost": 10464,
+      "UCarTransmission": "sandgvhsdgv",
+      "UCarInsuranceType": "bnbnbnb",
+      "UCarMileage": 65435,
+      "UCarNoOfPrevOwner": "shdgjh",
+      "UCarRTO": "bbdgbg",
+      "UCarDriven": "ekfhiku",
+      "UCarStatus": "gnhhgn",
+      "CarType": "dsjksdfjk",
+      "BookingStatus": "wdljwl",
+      "SellerId": 101
+    },
+    {
+      "UsedCarId": 603,
+      "UCarName": "abc",
+      "CarPurchaseDate": "10/8/2022",
+      "UCarCost": "120000",
+      "UCarTransmission": "123wer",
+      "UCarInsuranceType": "fdbvfdgdf",
+      "UCarMileage": "16",
+      "UCarNoOfPrevOwner": "bfghnfgn",
+      "UCarRTO": "nbvnnfhfhn",
+      "UCarDriven": "nfghnfgnfnm",
+      "UCarStatus": "gngfnfg",
+      "CarType": "bgfbghg",
+      "BookingStatus": "approved",
+      "SellerId": "111",
+      "id": 3
+    }
+  ]
+}

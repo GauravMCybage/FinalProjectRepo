@@ -1,0 +1,26 @@
+.box_cardtl
+{
+    margin-top: 50px;;
+    border: 5px solid black;
+     height: 100%; 
+    width: 50%; 
+    text-align: left; 
+     margin-right: 150px; 
+   
+    margin-left: 250px;  
+}
+     
+.label{
+   
+    float: left;
+    width: 25%;
+   
+}
+.btn_form_newcar{
+ margin-left: 220px; 
+} 
+
+.input_form_usecar{
+    
+     margin-left: 2px;
+} 
